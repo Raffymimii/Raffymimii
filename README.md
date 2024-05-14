@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Raffymimii
 - 👀 I’m interested in coding and minecraft
-- 🌱 I’m currently learning .Java
+- 🌱 I’m currently learning Java
 - 📫 My Minecraft Server play.zeromc.it / https://discord.zeromc.it
 - ⚡ Fun fact: I love penguins
 <!---
