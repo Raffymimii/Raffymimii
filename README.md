@@ -1,9 +1,19 @@
-- 👋 Hi, I’m @Raffymimii
-- 👀 I’m interested in coding and minecraft
-- 🌱 I’m currently learning Java
-- 📫 My Minecraft Server play.zeromc.it / https://discord.zeromc.it
-- ⚡ Fun fact: I love penguins
-<!---
-Raffymimii/Raffymimii is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## 👋 Hi i'm Raffymimi
+
+[![My Portfolio](https://portfolio.raffymimi.it/)
+
+### 👀 What do I like to develop most?  
+- 🕹️ **Minecraft Plugins**  
+- 🧨 **SCP:SL Plugins**
+- ✨ **Websites**
+
+### 🧐 About Me
+- **Languages:** Java, JavaScript, C#, C++, PHP, HTML, CSS, Python
+- **Projects:** [ValhMC](https://discord.valhmc.it)
+- **Games:** Minecraft, Rainbow Six Siege, Gta V, Rocket League, EuroTruck Simulator 2, Inside the Backrooms, Escape the Backrooms
+
+### 📫 Connect with Me  
+- 💬 Discord: `@raffymimi`
+
+### ❤ My Loves
+- [@burlone0](https://github.com/burlone0), [@Dxxts](https://github.com/Dxxts)
