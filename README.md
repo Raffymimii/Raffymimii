@@ -16,4 +16,4 @@
 - 💬 Discord: `@raffymimi`
 
 ### ❤ My Loves
-- [@burlone0](https://github.com/burlone0), [@Dxxts](https://github.com/Dxxts)
+- [@burlone0](https://github.com/burlone0), [@Dxxts](https://github.com/Dxxts), Ilaria (not dev but alr)
