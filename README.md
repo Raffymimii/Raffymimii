@@ -10,7 +10,7 @@
 ### 🧐 About Me
 - **Languages:** Java, JavaScript, C#, C++, PHP, HTML, CSS, Python
 - **Projects:** [ValhMC](https://discord.valhmc.it)
-- **Games:** Minecraft, Rainbow Six Siege, Gta V, Rocket League, EuroTruck Simulator 2, Inside the Backrooms, Escape the Backrooms
+- **Games:** Minecraft, Rainbow Six Siege, Gta V, Rocket League, EuroTruck Simulator 2, Inside the Backrooms, Escape the Backrooms, Valheim, Raft
 
 ### 📫 Connect with Me  
 - 💬 Discord: `@raffymimi`
