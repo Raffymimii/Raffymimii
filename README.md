@@ -1,6 +1,6 @@
 ## 👋 Hi i'm Raffymimi
 
-### 💻 [My Portfolio](https://portfolio.raffymimi.it/)
+### 💻 [My Portfolio](https://portfolio.raffymimi.com/)
 
 ### 👀 What do I like to develop most?  
 - 🕹️ **Minecraft Plugins**  
