@@ -11,11 +11,7 @@ Check out my [Newest Project](https://codexe.eu).
 [![Deryu](https://img.shields.io/badge/Dxxts-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Dxxts)
 
 
-### Currently Working On
-- **Codexe** - Minecraft utilities project
-- **PenguinStudios** - Collaborative development
-- **ArxLand** - In development
-
-### Personal Best project (for now)
-- **PenguinFishingSystem** - https://builtbybit.com/resources/penguinfishingsystem.96620/
-- **PenguinCrops** - https://builtbybit.com/resources/penguincrops.116921/
+### My Projects
+- **[Codexe](https://codexe.eu/)** - AI-powered generator for Minecraft plugins, mods, Discord bots and websites
+- **[PenguinStudios](https://penguinstudios.eu/)** - Custom plugins, bots, websites and development services
+- **[ArxLand](https://www.arxland.net/)** - Custom Minecraft community network
