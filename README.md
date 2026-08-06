@@ -5,7 +5,7 @@ Check out my [Newest Project](https://codexe.eu).
 
 [![My Skills](https://skillicons.dev/icons?i=java,js,ts,html,css,nodejs,vue,py,cs,cpp,dotnet,unreal,electron,express,vite,mysql,postgres,sqlite,mongodb,redis,nginx,maven,gradle,npm,git,github,linux,ubuntu,windows,powershell,bash,vscode,visualstudio,discord,cloudflare&perline=12)](https://skillicons.dev)<br/>
 
-[![Discord Presence](https://api.lanyard.rest/v1/users/713638252573098026)](https://discord.com/users/713638252573098026)
+[![Discord Presence](https://api.lanyard.rest/v1/users/713638252573098026?theme=dark&bg=1c1c1c&animated=true&hideDiscrim=true&borderRadius=10px&idleMessage=Offline)](https://discord.com/users/713638252573098026)
 
 ### Collaborators
 [![Deryu](https://img.shields.io/badge/Dxxts-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Dxxts)
