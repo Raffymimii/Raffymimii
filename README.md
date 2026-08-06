@@ -1,19 +1,21 @@
-## 👋 Hi i'm Raffymimi
+# Hello.
+**I'm Raffymimi** - I'm the CEO of PenguinStudios and a Developer. I work on lots of projects and this is my full time job.
 
-### 💻 [My Portfolio](https://portfolio.raffymimi.com/)
+Check out my [Newest Project](https://codexe.eu).
 
-### 👀 What do I like to develop most?  
-- 🕹️ **Minecraft Plugins**  
-- 🧨 **SCP:SL Plugins**
-- ✨ **Websites**
+[![SkillIcons](https://skillicons.dev/icons?i=js,ts,html,css,nodejs,py,vue,java)](https://skillicons.dev)<br/>
 
-### 🧐 About Me
-- **Languages:** Java, JavaScript, C#, C++, PHP, HTML, CSS, Python
-- **Projects:** [ValhMC](https://valhmc.it)
-- **Games:** Elden Ring, Minecraft, Rainbow Six Siege, Gta V, Rocket League, EuroTruck Simulator 2, Inside the Backrooms, Escape the Backrooms, Valheim, Raft
+[![Discord Presence](https://lanyard.cnrad.dev/api/713638252573098026?theme=dark&bg=1c1c1c&animated=true&hideDiscrim=true&borderRadius=10px&idleMessage=Offline)](https://discord.com/users/713638252573098026)
 
-### 📫 Connect with Me  
-- 💬 Discord: `@raffymimi`
+### Collaborators
+[![Deryu](https://img.shields.io/badge/Dxxts-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Dxxts)
 
-### ❤ My Loves
-- [@burlone0](https://github.com/burlone0), [@Dxxts](https://github.com/Dxxts), Ilaria (not dev but alr)
+
+### Currently Working On
+- **Codexe** - Minecraft utilities project
+- **PenguinStudios** - Collaborative development
+- **ArxLand** - In development
+
+### Personal Best project (for now)
+- **PenguinFishingSystem** - https://builtbybit.com/resources/penguinfishingsystem.96620/
+- **PenguinCrops** - https://builtbybit.com/resources/penguincrops.116921/
