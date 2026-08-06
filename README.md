@@ -3,7 +3,8 @@
 
 Check out my [Newest Project](https://codexe.eu).
 
-[![My Skills](https://skillicons.dev/icons?i=java,js,ts,html,css,nodejs,vue,py,cs,cpp,dotnet,unreal,electron,express,vite,mysql,postgres,sqlite,mongodb,redis,nginx,maven,gradle,npm,git,github,linux,ubuntu,windows,powershell,bash,vscode,visualstudio,discord,cloudflare&perline=12)](https://skillicons.dev)<br/>
+[![My Skills](https://skillicons.dev/icons?i=java,js,ts,html,css,nodejs,vue,py,lua,robloxstudio,cs,cpp,dotnet,unreal,electron,express,vite,mysql,mongodb,redis,nginx,maven,git,github,linux,idea,vscode,visualstudio,cloudflare&perline=10)](https://skillicons.dev)
+<br/>
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/713638252573098026?theme=dark&bg=1c1c1c&animated=true&hideDiscrim=true&borderRadius=10px&idleMessage=Offline)](https://discord.com/users/713638252573098026)
 
