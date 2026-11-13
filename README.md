@@ -13,6 +13,7 @@ Check out my [Newest Project](https://codexe.eu).
 
 
 ### My Projects
-- **[Codexe](https://codexe.eu/)** - AI-powered generator for Minecraft plugins, mods, Discord bots and websites
 - **[PenguinStudios](https://penguinstudios.eu/)** - Custom plugins, bots, websites and development services
-- **[ArxLand](https://www.arxland.net/)** - Custom Minecraft community network
+- **[Codexe](https://codexe.eu/)** - AI-powered generator for Minecraft plugins, mods, Discord bots and websites
+- **[Nuvome](https://nuvome.eu/)** - Virtual servers in Germany and the United States. Root access, NVMe storage, and a console that tells you what every action is doing.
+- **[ValhMC](https://valhmc.it)** - Custom Minecraft Italian community network
